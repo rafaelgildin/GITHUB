@@ -1,3 +1,4 @@
+next*
 .venv
 ignore*
 
@@ -19,4 +20,3 @@ build/
 .DS_STORE
 
 .env
-next
