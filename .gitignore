@@ -3,3 +3,4 @@ infos - ignorado/
 token_github.txt
 Docker*
 ignore*
+.venv
